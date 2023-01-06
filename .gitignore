@@ -1,0 +1,5 @@
+storage
+data/*.txt
+env
+__pycache__
+/__pycache__/
